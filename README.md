@@ -18,6 +18,5 @@
 - ## 🤝 Vamos nos conectar?
 
 💼 LinkedIn: www.linkedin.com/in/carolina-leandro-bezerra  
-📧 E-mail: carollebeze@gmail.com  
 
 Estou aberta a conexões, trocas de conhecimento e oportunidades na área de **Banco de Dados, Dados e Tecnologia**.
