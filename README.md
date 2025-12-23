@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Carolina Bezerra
+# 👋 Olá! Eu sou a Carolina
 
 🎓 Estudante de **Desenvolvimento de Sistemas (SENAC)**  
 📊 Foco em **Banco de Dados, SQL básico e organização da informação**  
