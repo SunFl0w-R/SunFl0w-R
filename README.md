@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Carolina Bezerra
 
-<!--
-**SunFl0w-R/SunFl0w-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Desenvolvimento de Sistemas (SENAC)**  
+📊 Foco em **Banco de Dados, SQL básico e organização da informação**  
+🌎 Inglês C1 | Português nativo
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Banco de Dados & Dados
+- SQL (Basic)
+- Bancos de Dados Relacionais
+- Organização e Qualidade de Dados
+- Documentação Técnica
+- ### 🧠 Conhecimentos Complementares
+- Lógica de Programação
+- Melhoria Contínua (Lean Six Sigma – fundamentos)
+- Segurança da Informação (básico)
+- ## 🤝 Vamos nos conectar?
+
+💼 LinkedIn: www.linkedin.com/in/carolina-leandro-bezerra  
+📧 E-mail: carollebeze@gmail.com  
+
+Estou aberta a conexões, trocas de conhecimento e oportunidades na área de **Banco de Dados, Dados e Tecnologia**.
