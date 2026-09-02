@@ -57,4 +57,4 @@ base   lógica  BD I    BD II   Java   boas    UX/UI  interfaces
 
 ---
 
-<div align="center"><sub>Atualizado conforme avanço no curso · Senac RS</sub></div>
+<div align="center"><sub>Atualizado conforme avanço no curso · Senac </sub></div>
