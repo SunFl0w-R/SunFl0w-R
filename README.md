@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Olá, eu sou a Carolina 👋
+# ✨ Olá, eu sou a Carolina 🐈‍⬛
 
 **🎓Estudante de Desenvolvimento de Sistemas**
 
