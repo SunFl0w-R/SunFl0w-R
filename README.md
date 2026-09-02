@@ -1,19 +1,22 @@
 <div align="center">
 
-## ✨ Olá! Eu sou a Carolina 
-    🎓 Estudante de **Desenvolvimento de Sistemas (SENAC)**  
-    
-## 💬 Sobre mim
-Sou Assistente Comercial na Hotmart e trago pra tecnologia o que aprendi analisando processos e qualidade de informação: raciocínio estruturado, atenção a regra de negócio e disciplina com documentação. Estou cursando Desenvolvimento de Sistemas no Senac conclusão e uso este espaço para registrar essa jornada.
+# ✨ Olá, eu sou a Carolina 👋
+
+**🎓Estudante de Desenvolvimento de Sistemas**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logoColor=white)
 ![Status](https://img.shields.io/badge/curso-UC9%20em%20andamento-brightgreen?style=flat)
 
-<div>
-    ---
-    ## 🧭 Minha jornada até aqui
+</div>
+
+---
+
+## 💬 Sobre mim
+
+Sou Assistente Comercial na Hotmart e trago pra tecnologia o que aprendi analisando processos e qualidade de informação: raciocínio estruturado, atenção a regra de negócio e disciplina com documentação. Estou cursando Desenvolvimento de Sistemas no Senac e uso este espaço para registrar essa jornada.
+## 🧭 Minha jornada até aqui
 
 ```
 UC1 → UC2 → UC3 → UC4 → UC6 → UC7 → UC8 → UC9 (atual)
@@ -32,7 +35,7 @@ base   lógica  BD I    BD II   Java   boas    UX/UI  interfaces
 | **UC8** | UX/UI | Processo de design, pesquisa qualitativa, usabilidade e acessibilidade |
 | **UC9** ⏳ | Interfaces desktop em Java | Swing/NetBeans, tratamento de exceções, validação de formulário, manipulação de arquivos |
 
-## 🛠️ Tecnologias e Habilidades
+## 🛠️ Tecnologias
 
 <div align="left">
 
@@ -44,24 +47,17 @@ base   lógica  BD I    BD II   Java   boas    UX/UI  interfaces
 
 </div>
 
-##  🧠 Conhecimentos Complementares
-
 ## 📁 Projetos em destaque
 
 | Projeto | UC | O que faz |
 |---|---|---|
 | 🧮 [Calculadora Nutricional Desktop](./README-atividade2.md) | UC9 | App Java (Swing) que calcula IMC, gasto calórico e recomendação de macronutrientes |
 
-<div align="center"><sub>Perfil atualizado conforme avanço no curso técnico de Desenvolvimento de Sistemas — Senac RS.</sub></div>
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinaleandro-bezerra) &nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SunFl0w-R)
-#🤝 Vamos nos conectar?
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SunFl0w-R) &nbsp;
 
+---
 
-
-
-
-
+<div align="center"><sub>Perfil atualizado conforme avanço no curso técnico de Desenvolvimento de Sistemas — Senac RS.</sub></div>
