@@ -48,7 +48,7 @@ interfaces desktop (UC9)     →  construção da tela em Swing/NetBeans
 
 ## ✅ Status
 
-Concluído e entregue como Atividade Avaliativa 2 da UC9.
+Concluída.
 
 ---
 
