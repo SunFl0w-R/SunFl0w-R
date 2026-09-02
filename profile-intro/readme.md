@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Olá, eu sou a Carolina ![cat](<iframe src="https://giphy.com/embed/gXXFrjHFJIMoqKr8UT" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dance-cat-gXXFrjHFJIMoqKr8UT">via GIPHY</a></p>)
+# ✨ Olá, eu sou a Carolina ![gato dançando](https://media.giphy.com/media/gXXFrjHFJIMoqKr8UT/giphy.gif)
 
 **🎓Estudante de Desenvolvimento de Sistemas**
 
