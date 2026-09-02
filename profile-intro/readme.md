@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Olá, eu sou a Carolina ![gato dançando](https://media.giphy.com/media/gXXFrjHFJIMoqKr8UT/giphy.gif)
+# ✨ Olá, eu sou a Carolina
 
 **🎓Estudante de Desenvolvimento de Sistemas**
 
