@@ -1,6 +1,6 @@
 # Calculadora Nutricional Desktop
 
-Aplicação desktop em **Java** (interface construída no NetBeans) desenvolvida para a Atividade Avaliativa 2 da UC9 (Desenvolvimento de Sistemas — Senac RS).
+Aplicação desktop em **Java** (interface construída no NetBeans) desenvolvida para a Atividade Avaliativa 2 da UC9 (Desenvolvimento de Sistemas — Senac)
 
 ## Sobre o projeto
 
@@ -28,4 +28,4 @@ O sistema foi encomendado, no enunciado da atividade, para um sindicato de nutri
 
 ---
 
-*Projeto acadêmico desenvolvido no curso técnico de Desenvolvimento de Sistemas (Senac RS).*
+*Projeto acadêmico desenvolvido no curso técnico de Desenvolvimento de Sistemas (Senac).*
