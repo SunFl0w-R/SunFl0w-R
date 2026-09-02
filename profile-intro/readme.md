@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Olá, eu sou a Carolina <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnY4Nm5qdmN2OWl2Y2p5amx5a29ybGg5eDZ5Z25icGxlN29kaTF4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXXFrjHFJIMoqKr8UT/giphy.gif" width="25"/>
+# ✨ Olá, eu sou a Carolina ![cat](<iframe src="https://giphy.com/embed/gXXFrjHFJIMoqKr8UT" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dance-cat-gXXFrjHFJIMoqKr8UT">via GIPHY</a></p>)
 
 **🎓Estudante de Desenvolvimento de Sistemas**
 
