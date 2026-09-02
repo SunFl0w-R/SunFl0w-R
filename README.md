@@ -61,3 +61,6 @@ base   lógica  BD I    BD II   Java   boas    UX/UI  interfaces
 ---
 
 <div align="center"><sub>Perfil atualizado conforme avanço no curso técnico de Desenvolvimento de Sistemas — Senac RS.</sub></div>
+
+git clone https://github.com/SunFl0w-R/senac-desenvolvimento-de-sistemas.git
+cd senac-desenvolvimento-de-sistemas
