@@ -7,7 +7,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logoColor=white)
-![Status](https://img.shields.io/badge/curso-UC9%20em%20andamento-brightgreen?style=flat)
+![Status](https://img.shields.io/badge/curso-%20em%20andamento-brightgreen?style=flat)
 
 </div>
 
