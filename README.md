@@ -15,7 +15,7 @@
 
 ## 💬 Sobre mim
 
-Sou Assistente Comercial na Hotmart e trago pra tecnologia o que aprendi analisando processos e qualidade de informação: raciocínio estruturado, atenção a regra de negócio e disciplina com documentação. Estou cursando Desenvolvimento de Sistemas no Senac e uso este espaço para registrar essa jornada.
+Sou Assistente Comercial e trago pra tecnologia o que aprendi analisando processos e qualidade de informação: raciocínio estruturado, atenção a regra de negócio e disciplina com documentação. Estou cursando Desenvolvimento de Sistemas no Senac e uso este espaço para registrar essa jornada.
 ## 🧭 Minha jornada até aqui
 
 ```
