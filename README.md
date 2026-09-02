@@ -4,8 +4,7 @@
 # 🎓 Estudante de **Desenvolvimento de Sistemas (SENAC)**  
     
 ```
-## 
-💬 Sobre mim
+## 💬 Sobre mim
 
 ```
 
