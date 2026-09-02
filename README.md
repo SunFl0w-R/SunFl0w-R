@@ -57,7 +57,7 @@ base   lógica  BD I    BD II   Java   boas    UX/UI  interfaces
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinaleandro-bezerra) &nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SunFl0w-R) &nbsp 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SunFl0w-R)
 ## 🤝 Vamos nos conectar?
 ---
 
