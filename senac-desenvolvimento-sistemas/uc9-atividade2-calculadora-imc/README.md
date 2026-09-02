@@ -15,7 +15,7 @@
 
 ## 📌 Contexto
 
-Atividade avaliativa entregue no curso técnico de Desenvolvimento de Sistemas (Senac RS), simulando uma encomenda real: um sindicato de nutricionistas precisava de uma ferramenta desktop rápida para cálculos comuns da rotina clínica, sem depender de planilhas manuais.
+Atividade avaliativa entregue no curso técnico de Desenvolvimento de Sistemas (Senac), simulando uma encomenda real: um sindicato de nutricionistas precisava de uma ferramenta desktop rápida para cálculos comuns da rotina clínica, sem depender de planilhas manuais.
 
 ## ⚙️ O que a aplicação faz
 
