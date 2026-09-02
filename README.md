@@ -1,8 +1,7 @@
 <div align="center">
     # ✨ Olá! Eu sou a Carolina
-
-#🎓 Estudante de **Desenvolvimento de Sistemas (SENAC)**  
-
+    #🎓 Estudante de **Desenvolvimento de Sistemas (SENAC)**  
+    
 ## 💬 Sobre mim
 Sou Assistente Comercial na Hotmart e trago pra tecnologia o que aprendi analisando processos e qualidade de informação: raciocínio estruturado, atenção a regra de negócio e disciplina com documentação. Estou cursando Desenvolvimento de Sistemas no Senac conclusão e uso este espaço para registrar essa jornada.
 
@@ -58,8 +57,8 @@ base   lógica  BD I    BD II   Java   boas    UX/UI  interfaces
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinaleandro-bezerra) &nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SunFl0w-R)
-## 🤝 Vamos nos conectar?
----
+#🤝 Vamos nos conectar?
+
 
 
 
